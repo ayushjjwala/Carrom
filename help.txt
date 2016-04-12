@@ -1,0 +1,11 @@
+To run the game just type './carrom' 
+
+
+Rules:
+
+1) Use Mouse drag or 'left' or 'right' arrow keys to move the striker initially.
+2) Use 'up' and 'down' arrow keys to set power of the striker.
+3) use 'w', 'a', 's', 'd' to move the aim which is initially present at the center of the board.
+4) Press 'space bar' to launch the striker.
+5) You get +10 for every black coin that get into the pocket and -5 for every white coin goes in the pocket.
+6) The game ends when you pocket all the black coins.
